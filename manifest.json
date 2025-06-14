@@ -1,0 +1,14 @@
+{
+  "name": "gateway",
+  "description": "Показывает активные шлюзы и открытые порты (Linux only)",
+  "version": "1.0",
+  "target": "Linux",
+  "entrypoint": "gateway.py",
+  "dependencies": ["colorama"],
+  "author": "Асбйорн Расен",
+  "email": "asbjornrasen@gmail.com",
+  "github": "https://github.com/asbjornrasen",
+  "website": "https://www.cryptoprotos.tech",
+  "license": "license.md"
+}
+
