@@ -8,7 +8,7 @@
     "dependencies": ["colorama"],
     "author": "Asbjorn Rasen",
     "email": "asbjornrasen@gmail.com",
-    "github": "https://github.com/asbjornrasen/cptd-plugin-gateway",
+    "github": "https://github.com/asbjornrasen/cptd-plugin-gateway/raw/refs/heads/main/gateway.zip",
     "website": "https://www.cryptoprotos.tech",
     "license": "license.md"
   }
