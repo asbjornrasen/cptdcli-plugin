@@ -2,7 +2,6 @@
   {
     "name": "gateway",
     "description": "Shows active gateways and open ports (Linux only)",
-    "long_description": "",
     "version": "1.0",
     "target": "Linux",
     "entrypoint": "gateway.py",
