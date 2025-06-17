@@ -2,11 +2,7 @@
   {
     "name": "gateway",
     "description": "Shows active gateways and open ports (Linux only)",
-    "long_description": "The gateway command is a CPTD CLI utility designed specifically for Linux systems. It provides detailed insights into the system’s network routing and port status. With a simple syntax and fast execution, gateway helps developers and administrators inspect the default gateway, view all routing entries, and list currently open TCP and UDP ports.
-The command supports a range of filtering options through flags such as --only-gateway, --only-ports, --tcp, --udp, and --all. Results can also be saved directly to a file using --save <filename>. Internally, the tool leverages system utilities like ip route, ss, and netstat (if available), ensuring compatibility across most Linux environments.
-One of the key features is its modular filtering logic. Whether you're debugging a connectivity issue, monitoring listening ports, or just performing routine checks, gateway provides fast and readable outputs. It is particularly useful in containerized or virtualized environments where minimal tools are available and quick inspection is essential.
-This command includes a platform check using ensure_compatible(), and will self-remove if executed on an unsupported OS. Lightweight, safe, and efficient, gateway brings practical network visibility into the CPTD CLI ecosystem.
-For full documentation and usage examples, visit: https://asbjorn.dev/gateway-docs",
+    "long_description": "",
     "version": "1.0",
     "target": "Linux",
     "entrypoint": "gateway.py",
