@@ -11,7 +11,7 @@
     "email": "asbjornrasen@gmail.com",
     "download": "https://github.com/asbjornrasen/cptd-plugin-gateway/raw/refs/heads/main/gateway.zip",
     "website": "https://www.cryptoprotos.tech",
-    "license": "license.md",
+    "license": "https://github.com/asbjornrasen/cptd-plugin-gateway/raw/refs/heads/main/license.md",
     "documentation":"https://github.com/asbjornrasen/cptd-plugin-gateway/raw/refs/heads/main/README.md"
   }
 ]
