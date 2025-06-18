@@ -7,14 +7,16 @@ CPTD CLI plugin
 
 {  
 "name": "example",  
-"description": "example",  
+"description": "short no more than 30 words", 
+"long_description":"no more than 150 words",
 "version": "1.0.0",  
 "target": "Windows",   <--  add Windows or Linux or MacOs or All 
 "entrypoint": "example.py",  
 "dependencies": ["example"],  
 "author": "example",  
 "email": "example@example.com",  
-"github": "https://github.com/example/example",   <--  add RAW path your command.zip 
+"github": "https://github.com/example/example.zip",   <--  add RAW path your command.zip 
 "website": "https://example.com",  
-"license": "example.md"  
+"license": "example.md", 
+"documentation":"https://github.com/example/example.md",   <--  add RAW path your command.zip 
 }
