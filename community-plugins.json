@@ -16,8 +16,8 @@
   },
    {
     "name": "installapp",
-    "description": "Install or remove CPTD command as Windows desktop app",
-    "long_description": "The installapp command is a utility for CPTD CLI that allows users to create or remove desktop shortcuts for installed CPTD commands on Windows systems. With a simple terminal instruction, users can instantly integrate any CPTD command into their workflow as a clickable application. Shortcuts are created automatically in both the Start Menu and on the Desktop, with support for custom .ico or .png icons. The tool ensures seamless access to CPTD commands without the need to open a terminal each time. Removing shortcuts is just as simple using the --delete flag. The process is entirely automated — no manual file movement or system configuration is required.",
+    "description": "Install or remove CPTD command as Linux desktop app",
+    "long_description": "The installapp command is a utility for CPTD CLI that allows users to create or remove desktop shortcuts for installed CPTD commands on Linux systems. With a simple terminal instruction, users can instantly integrate any CPTD command into their workflow as a clickable application. Shortcuts are created automatically in both the Start Menu and on the Desktop, with support for custom .ico or .png icons. The tool ensures seamless access to CPTD commands without the need to open a terminal each time. Removing shortcuts is just as simple using the --delete flag. The process is entirely automated — no manual file movement or system configuration is required.",
     "version": "1.0",
     "target": "Linux",
     "entrypoint": "installapp.py",
