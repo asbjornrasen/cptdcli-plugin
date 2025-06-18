@@ -17,6 +17,6 @@ CPTD CLI plugin
 "email": "example@example.com",  
 "github": "https://github.com/example/example.zip",   <--  add RAW path your command.zip   
 "website": "https://example.com",  
-"license": "example.md",   
-"documentation":"https://github.com/example/example.md",   <--  add RAW path your command.zip    
+"license": "https://github.com/example/license.md",   <--  add RAW path your license.md     
+"documentation":"https://github.com/example/readme.md",   <--  add RAW path your readme.md    
 }
