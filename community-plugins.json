@@ -44,10 +44,10 @@
     "license": "https://github.com/asbjornrasen/cptd-plugin-testapp/raw/refs/heads/main/license.md",
     "documentation":"https://github.com/asbjornrasen/cptd-plugin-testapp/raw/refs/heads/main/readme.md"
  },
-     {
+ {
     "name": "pack ",
     "description": "The pack command in CPTD CLI enables seamless export and import of CLI commands as ZIP archives. Ideal for backups, sharing tools, or migrating setups across machines.",
-    "long_description": "The pack command is a core utility of CPTD CLI designed to manage the export and import of command modules in .zip format. It simplifies sharing commands between users, creating backups, and migrating CLI configurations across systems. Users can export all installed commands to a directory or import them back with options like --replace and --skip-existing. The tool enforces structural validation and excludes unnecessary files to ensure security. Whether you're managing multiple environments or distributing tools to a team, pack provides a structured and safe way to handle command portability in CPTD."
+    "long_description": "The pack command is a core utility of CPTD CLI designed to manage the export and import of command modules in .zip format. It simplifies sharing commands between users, creating backups, and migrating CLI configurations across systems. Users can export all installed commands to a directory or import them back with options like --replace and --skip-existing. The tool enforces structural validation and excludes unnecessary files to ensure security. Whether you're managing multiple environments or distributing tools to a team, pack provides a structured and safe way to handle command portability in CPTD.",
     "target": "All",
     "entrypoint": "pack.py",
     "dependencies": [""],
