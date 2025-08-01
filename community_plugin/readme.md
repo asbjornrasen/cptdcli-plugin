@@ -1,5 +1,2 @@
-for users plugin
-
-
-Add your command.zip
+Add your_command.zip 
 

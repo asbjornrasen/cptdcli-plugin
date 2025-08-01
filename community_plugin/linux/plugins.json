@@ -1,17 +1,7 @@
 [
   {
     "name": "portscanner",
-    "description": "Multithreaded TCP Port Scanner",
-    "version": "1.0.0"
-  },
-   {
-    "name": "logs",
-    "description": "Read / delete CPTD task logs",
-    "version": "1.0.0"
-  },
-  {
-    "name": "pshellwrap",
-    "description": "Run bash scripts with arguments via CPTD CLI on Windows",
+    "description": "Multithreaded TCP Port Scanner in Python",
     "version": "1.0.0"
   },
   {
