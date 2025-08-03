@@ -28,5 +28,11 @@
     "name": "portwho",
     "description": "Analyze which processes are using specified ports",
     "version": "1.0.0"
+  },
+  {
+    "name": "scheduler",
+    "description": "Background task scheduler with GUI, autostart and YAML schedule execution support",
+    "version": "1.4.0"
   }
 ]
+
